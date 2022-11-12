@@ -41,11 +41,6 @@ public class DateTime01 {
         Long ayFarki = ChronoUnit.MONTHS.between(istanbulunFethi, CumhuriyetinKurulusu);
         System.out.println(ayFarki);
 
-        //Verilen tarihin hangi burcta yer aldigini bulan kodu yaziniz
-        LocalDate dt = LocalDate.of(1989,12,7);
-        int day = dt.getDayOfMonth();
-        int month = dt.getMonthValue();
-
     }
 
 }

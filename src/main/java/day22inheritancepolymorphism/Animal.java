@@ -15,6 +15,7 @@ public class Animal {
 
         Cat c1 = new Cat();
         Cat c2 = new Cat();
+        c1.eat();
 
     }
 

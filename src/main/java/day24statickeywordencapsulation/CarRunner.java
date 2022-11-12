@@ -15,6 +15,16 @@ public class CarRunner {
         System.out.println(Car.counter);
         System.out.println(c2.price);
 
+        Car c5 = new Car();
+
+        System.out.println(Car.counter);
+        System.out.println(c5.price);
+        System.out.println(Car.counter);
+        System.out.println(c1.price);
+
+
+
+
     }
 
 }

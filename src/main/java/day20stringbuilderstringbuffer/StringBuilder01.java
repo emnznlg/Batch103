@@ -13,7 +13,7 @@ public class StringBuilder01 {
             ii)Eski variable'in pointer'i yeni variable'a dondurulur
             iii)Eger bir variable'i hicbir pointer gostermiyorsa o variable "Garbage Collector" tararfindan silinir
 
-            "Mutable Class" larda var olan deger degistirilebilir. Oijinal deger korunmaz.
+            "Mutable Class" larda var olan deger degistirilebilir. Orjinal deger korunmaz.
 
         5) "String Class" larin "immutable" yapisi "security" icin onemlidir.
             Ayni degere sahip birden fazla String oldugunda, Java bir tane container olusturur ve ayni deger sahip String'lerin bu container'i
@@ -110,5 +110,6 @@ public class StringBuilder01 {
         //                        iii)"a" alfabetik sirada "b" den once gelirse negatif olarak aradaki alfabetik siralama farkini gosterir
         int sonuc = a.compareTo(b);
         System.out.println(sonuc);
+
     }
 }

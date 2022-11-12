@@ -11,6 +11,8 @@ public class Cat extends Mammal {
         System.out.println("Cats eat");
     }
 
+
+
      /*
         @Override annotation'ini kullanarak, Java'nin yaptigimiz Override islemini kontrol etmesini saglariz
         1)Override yaparken "method'un body" si degistirilir.

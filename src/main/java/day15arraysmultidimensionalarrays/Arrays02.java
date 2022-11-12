@@ -7,7 +7,7 @@ public class Arrays02 {
     public static void main(String[] args) {
 
         //Example 1: Size verilen ve pozitif ve negatif sayilar iceren bir int Array'deki en buyuk negatif ve
-        //en kucuk pozitif elemani bul
+        //en kucuk pozitif elemani bul.
 
         int arr[] = {-5,5,-45,89,-55,-1,0,78};
 
